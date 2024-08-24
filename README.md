@@ -3,12 +3,13 @@
 
 ## Go to the desktop and open the terminal 
 
-### Use the Following commands
+### Use the Following commands (Use every commands seperately)
 
 ```
   git clone https://github.com/nikbhaladhare2104/Dynamic-Dashboard.git
   cd Dynamic-Dashboard
   npm install
+  npm run dev 
 
 ```
 
